@@ -1,6 +1,7 @@
 ### DESCRIPCION DEL PROYECTO: Diseñar e implementar herramienta tecnólogica para un cliente que provee servicios de agregación de plataformas de streaming para implementar dentro de sus procesos organizacionales.
-### El alcance del proyecto tiene los siguientes entregables: 
-###Desarrollo de una API y su correspondiente despliegue en Internet de:
+### El alcance del proyecto tiene los siguientes entregables
+
+1.Desarrollo de una API y su correspondiente despliegue en Internet de:
 
 - Película (sólo película, no serie, etc) con mayor duración según año, plataforma y tipo de duración. La función debe llamarse get_max_duration(year, platform, duration_type) y debe devolver sólo el string del nombre de la película.
 
@@ -13,5 +14,7 @@
 - La cantidad de contenidos/productos (todo lo disponible en streaming) que se publicó por país y año. La función debe llamarse prod_per_county(tipo,pais,anio) deberia devolver la cantidada de contenidos/productos segun el tipo de contenido (pelicula,serie) por pais y año en un diccionario con las variables llamadas 'pais' (nombre del pais), 'anio' (año), 'pelicula' (cantidad de contenidos/productos).
 
 - La cantidad total de contenidos/productos (todo lo disponible en streaming, series, peliculas, etc) según el rating de audiencia dado (para que publico fue clasificada la pelicula). La función debe llamarse get_contents(rating) y debe devolver el numero total de contenido con ese rating de audiencias.
+
+2.  Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas. 
 
 https://proyecto1-bxvr.onrender.com/docs
