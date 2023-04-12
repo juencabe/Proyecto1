@@ -15,6 +15,18 @@
 
 - La cantidad total de contenidos/productos (todo lo disponible en streaming, series, peliculas, etc) según el rating de audiencia dado (para que publico fue clasificada la pelicula). La función debe llamarse get_contents(rating) y debe devolver el numero total de contenido con ese rating de audiencias.
 
-2.  Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas. 
+2.  Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas.
+
+Para terminar con éxito el proyecto y cumplir con los requerimientos del clientes debemos realizar las siguientes actividades principales cumpliendo con los criterios de ETL
+
+- Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets (ejemplo para títulos de Amazon = as123)
+
+- Los valores nulos del campo rating deberán reemplazarse por el string “G” (corresponde al maturity rating: “general for all audiences”
+
+- De haber fechas, deberán tener el formato AAAA-mm-dd
+
+- Los campos de texto deberán estar en minúsculas, sin excepciones
+
+- El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
 https://proyecto1-bxvr.onrender.com/docs
