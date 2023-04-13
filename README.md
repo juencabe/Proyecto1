@@ -33,7 +33,6 @@ Para terminar con éxito el proyecto y cumplir con los requerimientos del client
 
 - Análisis exploratorio de datos (EDA)
 
-https://proyecto1-bxvr.onrender.com/docs
 https://henry-laboratorio1.onrender.com/docs
 
 Video
