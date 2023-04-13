@@ -1,3 +1,7 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 pandas
+=======
+pandas
+>>>>>>> c2ac9e5eaf6c7272fd270f931138fcdfe5391a04
