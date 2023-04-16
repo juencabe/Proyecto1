@@ -1,7 +1,7 @@
 #### PROYECTO PRESENTADO POR JULIO CASTAÑO (Tener en cuenta que hay archivos en el Master)
 
 ### DESCRIPCION DEL PROYECTO: Diseñar e implementar herramienta tecnólogica para un cliente que provee servicios de agregación de plataformas de streaming para implementar dentro de sus procesos organizacionales.
-### El alcance del proyecto tiene los siguientes entregables
+### ALCANCE DEL PROYECTO
 
 #### 1.Desarrollo de una API y su correspondiente despliegue en Internet de:
 
