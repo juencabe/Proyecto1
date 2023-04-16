@@ -31,7 +31,6 @@ Para terminar con éxito el proyecto y cumplir con los requerimientos del client
 
 - El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
-- Análisis exploratorio de datos (EDA)
 
 https://henry-laboratorio1.onrender.com/docs
 
