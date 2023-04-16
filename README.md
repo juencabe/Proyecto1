@@ -3,7 +3,7 @@
 ### DESCRIPCION DEL PROYECTO: Diseñar e implementar herramienta tecnólogica para un cliente que provee servicios de agregación de plataformas de streaming para implementar dentro de sus procesos organizacionales.
 ### El alcance del proyecto tiene los siguientes entregables
 
-1.Desarrollo de una API y su correspondiente despliegue en Internet de:
+##### 1.Desarrollo de una API y su correspondiente despliegue en Internet de:
 
 - Película (sólo película, no serie, etc) con mayor duración según año, plataforma y tipo de duración. La función debe llamarse get_max_duration(year, platform, duration_type) y debe devolver sólo el string del nombre de la película.
 
@@ -17,7 +17,7 @@
 
 - La cantidad total de contenidos/productos (todo lo disponible en streaming, series, peliculas, etc) según el rating de audiencia dado (para que publico fue clasificada la pelicula). La función debe llamarse get_contents(rating) y debe devolver el numero total de contenido con ese rating de audiencias.
 
-2.Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas.
+#### 2.Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas.
 
 Para terminar con éxito el proyecto y cumplir con los requerimientos del clientes debemos realizar las siguientes actividades principales cumpliendo con los criterios de ETL
 
