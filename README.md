@@ -35,6 +35,8 @@ https://henry-laboratorio1.onrender.com/docs
 
 - El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
+- Realizar el análisis exploratorio de datos (EDA) para utilizar esta información en el entrenamiento del modelo de Machine Learning.
+
 
 Video
 
