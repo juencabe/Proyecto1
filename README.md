@@ -17,7 +17,7 @@
 
 - La cantidad total de contenidos/productos (todo lo disponible en streaming, series, peliculas, etc) según el rating de audiencia dado (para que publico fue clasificada la pelicula). La función debe llamarse get_contents(rating) y debe devolver el numero total de contenido con ese rating de audiencias.
 
-2.  Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas.
+2.Entrenar nuestro modelo de machine learning para armar un sistema de recomendación de películas.
 
 Para terminar con éxito el proyecto y cumplir con los requerimientos del clientes debemos realizar las siguientes actividades principales cumpliendo con los criterios de ETL
 
