@@ -21,6 +21,8 @@
 
 Para terminar con éxito el proyecto y cumplir con los requerimientos del clientes debemos realizar las siguientes actividades principales cumpliendo con los criterios de ETL
 
+#### DESARROLLO DEL PROYECTO
+
 - Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets (ejemplo para títulos de Amazon = as123)
 
 - Los valores nulos del campo rating deberán reemplazarse por el string “G” (corresponde al maturity rating: “general for all audiences”
