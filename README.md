@@ -3,7 +3,7 @@
 ### DESCRIPCION DEL PROYECTO: Diseñar e implementar herramienta tecnólogica para un cliente que provee servicios de agregación de plataformas de streaming para implementar dentro de sus procesos organizacionales.
 ### El alcance del proyecto tiene los siguientes entregables
 
-##### 1.Desarrollo de una API y su correspondiente despliegue en Internet de:
+#### 1.Desarrollo de una API y su correspondiente despliegue en Internet de:
 
 - Película (sólo película, no serie, etc) con mayor duración según año, plataforma y tipo de duración. La función debe llamarse get_max_duration(year, platform, duration_type) y debe devolver sólo el string del nombre de la película.
 
