@@ -25,6 +25,8 @@ https://henry-laboratorio1.onrender.com/docs
 
 #### DESARROLLO DEL PROYECTO
 
+### Realizar proceso ETL (Extraction, Transform, Load) para preparar los datos que se van a utilizar en la API.
+
 - Generar campo id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets (ejemplo para títulos de Amazon = as123)
 
 - Los valores nulos del campo rating deberán reemplazarse por el string “G” (corresponde al maturity rating: “general for all audiences”
@@ -35,7 +37,7 @@ https://henry-laboratorio1.onrender.com/docs
 
 - El campo duration debe convertirse en dos campos: duration_int y duration_type. El primero será un integer y el segundo un string indicando la unidad de medición de duración: min (minutos) o season (temporadas)
 
-- Realizar el análisis exploratorio de datos (EDA) para utilizar esta información en el entrenamiento del modelo de Machine Learning.
+### Realizar el análisis exploratorio de datos (EDA) para utilizar esta información en el entrenamiento del modelo de Machine Learning.
 
 
 Video
