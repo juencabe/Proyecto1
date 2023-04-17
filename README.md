@@ -40,7 +40,7 @@ https://henry-laboratorio1.onrender.com/docs
 ### Realizar el análisis exploratorio de datos (EDA) para utilizar esta información en el entrenamiento del modelo de Machine Learning.
 
 
-https://youtu.be/U86eC_OqimM
+Video
 
 ### Herramientas Utilizadas
 #### Python
